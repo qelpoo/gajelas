@@ -37,7 +37,7 @@ printf "${PUTIH}list dirmu:
 "
 ls
 echo "--------------------"
-echo "filenya: "; read list
+echo "list shellmu: "; read list
 if [ ! -f $list ]; then 
 	echo "$list is Not Found"
 	exit
