@@ -9,5 +9,5 @@ Untuk reponya bisa di cek https://github.com/nako48/
 usage: <br>
 <br>
 root@qelpoo:~# git clone https://github.com/qelpoo/gajelas/<br>
-root@qelpoo:~# chmod +x check.sh<br>
-root@qelpoo:~# ./check.sh
+root@qelpoo:~# chmod +x mass.sh<br>
+root@qelpoo:~# ./mass.sh
