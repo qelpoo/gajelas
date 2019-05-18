@@ -11,16 +11,3 @@ usage: <br>
 root@qelpoo:~# git clone https://github.com/qelpoo/gajelas/<br>
 root@qelpoo:~# chmod +x check.sh<br>
 root@qelpoo:~# ./check.sh
-<br>
-	-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<br>
-	=	qelpoo mass shell checker           	=<br>
-	=	fhallaw me @qelpoo		                =<br>
-	=					                              =<br>
-	= Semarang Crew @ 19:05:2019	        	=<br>
-	-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<br>
-<br>
-list dirmu:<br> 
-<br>
-check.sh  die.txt  list.txt  live.txt<br>
---------------------<br>
-filenya: <br>
